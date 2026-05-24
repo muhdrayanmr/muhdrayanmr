@@ -49,8 +49,8 @@ I am a 2nd-year **Electrical and Electronics Engineering** student at **NIT Cali
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhdrayanmr&show_icons=true&theme=matrix&rank_icon=github&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdrayanmr&layout=compact&theme=matrix&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api?username=muhdrayanmr&show_icons=true&theme=matrix&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api/top-langs/?username=muhdrayanmr&layout=compact&theme=matrix&border_radius=10" />
 </p>
 
 ---
