@@ -47,10 +47,7 @@ I am a 2nd-year **Electrical and Electronics Engineering** student at **NIT Cali
 
 ---
 
-### 📊 Activity Snapshots
-![](https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Hardware_Focus-Embedded_C-red?style=for-the-badge&logo=espressif)
-![](https://img.shields.io/badge/Academic_Rank-Topper-gold?style=for-the-badge)
+
 
 ---
 
