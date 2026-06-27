@@ -17,17 +17,7 @@ I am a 2nd-year **Electrical and Electronics Engineering** student at **NIT Cali
 
 ---
 
-### 🚀 Standardized Performance (The "Proof of Logic")
-> "Numbers don't lie."
 
-| Exam | Rank/Percentile | Category Rank |
-| :--- | :--- | :--- |
-| **KEAM 2025** | Rank **94** | - |
-| **CUSAT 2025** | Rank **79** | - |
-| **JEE Mains** | **98.80 %ile** | OBC **4605** |
-| **JEE Advanced** | Qualified | OBC **4049** |
-
----
 
 ### 🛠️ Tech Stack & Skills
 <div align="left">
