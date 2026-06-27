@@ -13,7 +13,7 @@ I am a 2nd-year **Electrical and Electronics Engineering** student at **NIT Cali
   - **SGPA:** 9.53 (Sem 2)
   - **CGPA:** 9.39 (Current)
 - 🤖 **Core Affiliation:** Junior Executive @ **RIG (Robotics and Innovations Club) NITC**
-- 🧠 **Logical Playground:** Chess enthusiast, DSA addict, and lover of complex mathematical puzzles.
+- 🧠 **Logical Playground:** Chess enthusiast, and lover of complex mathematical puzzles.
 
 ---
 
