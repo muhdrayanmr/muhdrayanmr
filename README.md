@@ -25,7 +25,7 @@ I am a 2nd-year **Electrical and Electronics Engineering** student at **NIT Cali
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Simulink-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESPRESSIF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<!--  <img src="https://img.shields.io/badge/ESPRESSIF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
