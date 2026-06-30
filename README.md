@@ -1,7 +1,7 @@
 # ⚡ 0xRAYAN: The Hardware-Software Nexus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Muhammad+Rayan+M+R;EEE+Student+@+NITC;9.39+Cumulative+GPA;RIG+Junior+Executive;Competitive+Programmer+%26+Robotist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Muhammad+Rayan+M+R;EEE+Student+@+NITC;9.39+Cumulative+GPA;RIG+Junior+Executive" alt="Typing SVG" />
 </div>
 
 ---
